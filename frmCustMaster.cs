@@ -17,6 +17,7 @@ namespace SalesPurchase
             InitializeComponent();
         }
         string sflag;
+        //string test;
         DataSet ds = new DataSet();
 
         private void btnclear_Click(object sender, EventArgs e)
